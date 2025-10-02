@@ -1,0 +1,6 @@
+nvim/data/
+nvim/state/
+nvim/cache/
+*.swp
+*.swo
+*.swx
