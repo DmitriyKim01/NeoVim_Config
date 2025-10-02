@@ -1,4 +1,6 @@
 require("config.lazy")
+require("remaps.default")
+require("remaps.plugins.telescope")
 vim.cmd("set expandtab")
 vim.cmd("set tabstop=2")
 vim.cmd("set softtabstop=2")
